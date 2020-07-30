@@ -1,6 +1,6 @@
 # Byungjin (BJ) Kim
-[![Linkedin Badge](https://img.shields.io/badge/-matthewhstrong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bjkim00/)](https://www.linkedin.com/in/bjkim00/)
-[![Gmail Badge](https://img.shields.io/badge/-matthew.h.strong@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bkim0018@gmail.com)](mailto:bkim0018@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-byungjinkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bjkim00/)](https://www.linkedin.com/in/bjkim00/)
+[![Gmail Badge](https://img.shields.io/badge/-bkim0018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bkim0018@gmail.com)](mailto:bkim0018@gmail.com)
 
 ## Hi!
 
