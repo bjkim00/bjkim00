@@ -4,8 +4,7 @@
 
 ## Hi!
 
-I'm BJ and I'm currently a undergraduate student set to graduate in May 2021 as well as a undergraduate research assistant at the HIRO group at the Univeristy of Colorado Boulder.
+I'm BJ and I'm currently a graduate student set to graduate in May 2023 with a Master's degree in Computer Science.
 
-- :robot: I’m currently working in the [HIRO](https://github.com/HIRO-group) group as a undergraduate research assistant.
 - 🌱 I’m currently learning neural networks and its applications in music, especially artificial music generation.
 -  ⚡ Languages: Python, C++, Korean (fluent)
