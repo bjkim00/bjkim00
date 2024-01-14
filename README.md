@@ -4,7 +4,7 @@
 
 ## Hi!
 
-I'm BJ and I'm currently a graduate student set to graduate in May 2023 with a Master's degree in Computer Science at the University of Michigan.
+I'm BJ and I'm a recent graduate with a Master's degree in Computer Science at the University of Michigan.
 
-- 🌱 I’m currently learning neural networks and its applications in music, especially artificial music generation.
+- 🌱 I’m currently learning neural networks and generative AI to see the impacts it can have on society in the future.
 -  ⚡ Languages: Python, C++, Korean (fluent)
