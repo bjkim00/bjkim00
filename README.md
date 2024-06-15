@@ -4,7 +4,7 @@
 
 ## Hi!
 
-I'm BJ and I'm a recent graduate with a Master's degree in Computer Science at the University of Michigan.
+I'm BJ and I'm a recent graduate with a Master's degree in Computer Science at the University of Michigan currently working as a Business Analyst at Northbound Consulting.
 
-- 🌱 I’m currently learning neural networks and generative AI to see the impacts it can have on society in the future.
+- 🌱 Outside of Salesforce consulting, I’m currently studying neural networks and generative AI to see the impacts it can have on society in the future.
 -  ⚡ Languages: Python, C++, Korean (fluent)
